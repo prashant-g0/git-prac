@@ -1,1 +1,2 @@
 hello
+user1 is not active
